@@ -2,5 +2,6 @@
 Hospital management sysetm
 ## Manege Patient records
 # https://bit.ly/mubshealth
-# Password mubshealth
+Password mubshealth
+Username admin
 kasulefred@gmail.com
